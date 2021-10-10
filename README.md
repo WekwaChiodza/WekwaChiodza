@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @WekwaChiodza
+- 👋 Hi, I’m Kudzai Chiodza (@WekwaChiodza)
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently learning Python, but I have a background in Chemical Engineering
 - 💞️ I’m looking to collaborate on Data Science in general and Data Science for Engineers
